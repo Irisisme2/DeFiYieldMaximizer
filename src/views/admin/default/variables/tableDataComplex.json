@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Purchase",
+    "amount": "$245.00",
+    "date": "2023-06-15"
+  },
+  {
+    "type": "Withdrawal",
+    "amount": "$500.00",
+    "date": "2023-06-12"
+  },
+  {
+    "type": "Deposit",
+    "amount": "$1000.00",
+    "date": "2023-06-10"
+  },
+  {
+    "type": "Transfer",
+    "amount": "$300.00",
+    "date": "2023-06-05"
+  }
+]

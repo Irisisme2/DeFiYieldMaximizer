@@ -1,0 +1,32 @@
+[
+  {
+    "name": ["Uniswap LP ETH/USDT", true],
+    "quantity": 10000,
+    "date": "2023-05-15",
+    "progress": 25.8
+  },
+  {
+    "name": ["SushiSwap LP ETH/DAI", false],
+    "quantity": 5000,
+    "date": "2023-06-01",
+    "progress": 15.2
+  },
+  {
+    "name": ["Balancer Pool BTC/ETH", true],
+    "quantity": 7500,
+    "date": "2023-05-20",
+    "progress": 30.5
+  },
+  {
+    "name": ["Curve Finance LP Stablecoins", true],
+    "quantity": 12000,
+    "date": "2023-05-10",
+    "progress": 18.3
+  },
+  {
+    "name": ["Yearn Finance Vault YFI", false],
+    "quantity": 3000,
+    "date": "2023-05-25",
+    "progress": 22.1
+  }
+]
